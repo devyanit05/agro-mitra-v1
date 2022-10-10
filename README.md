@@ -1,3 +1,3 @@
 # agro-mitra-v1
 
-# App which will contribute in smart agriculture.
+# A small initiative to contribute in smart agriculture.
